@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="abc051c">
+				<Option output="/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/abc051c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 abc051c"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="abc051c/fast">
+				<Option output="/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/abc051c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 abc051c/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="abc051d">
+				<Option output="/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/abc051d" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 abc051d"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="abc051d/fast">
+				<Option output="/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/abc051d" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 abc051d/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="abc051b">
+				<Option output="/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/abc051b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 abc051b"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="abc051b/fast">
+				<Option output="/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/abc051b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 abc051b/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="abc051a">
+				<Option output="/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/abc051a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 abc051a"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="abc051a/fast">
+				<Option output="/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/abc051a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 abc051a/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/alauda/CLionProjects/AtCoder/ABC/abc051/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/alauda/CLionProjects/AtCoder/ABC/abc051/q1001.cpp">
+			<Option target="abc051a"/>
+		</Unit>
+		<Unit filename="/Users/alauda/CLionProjects/AtCoder/ABC/abc051/q2001.cpp">
+			<Option target="abc051b"/>
+		</Unit>
+		<Unit filename="/Users/alauda/CLionProjects/AtCoder/ABC/abc051/q3001.cpp">
+			<Option target="abc051c"/>
+		</Unit>
+		<Unit filename="/Users/alauda/CLionProjects/AtCoder/ABC/abc051/q4001.cpp">
+			<Option target="abc051d"/>
+		</Unit>
+		<Unit filename="/Users/alauda/CLionProjects/AtCoder/ABC/abc051/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

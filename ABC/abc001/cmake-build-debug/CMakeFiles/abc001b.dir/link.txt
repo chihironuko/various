@@ -1,0 +1,1 @@
+/usr/local/opt/gcc/bin/g++-8   -std=c++11 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/abc001b.dir/q2001.cpp.o  -o abc001b 
