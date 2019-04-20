@@ -1,0 +1,6 @@
+C:/Users/okkun/Documents/atcoder/various/tenka1/tenka1_pb_2019/cmake-build-debug/CMakeFiles/tenka1_pb_2019a.dir
+C:/Users/okkun/Documents/atcoder/various/tenka1/tenka1_pb_2019/cmake-build-debug/CMakeFiles/tenka1_pb_2019b.dir
+C:/Users/okkun/Documents/atcoder/various/tenka1/tenka1_pb_2019/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/okkun/Documents/atcoder/various/tenka1/tenka1_pb_2019/cmake-build-debug/CMakeFiles/tenka1_pb_2019c.dir
+C:/Users/okkun/Documents/atcoder/various/tenka1/tenka1_pb_2019/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/okkun/Documents/atcoder/various/tenka1/tenka1_pb_2019/cmake-build-debug/CMakeFiles/tenka1_pb_2019d.dir
