@@ -1,0 +1,7 @@
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
+add_executable(diverta_a q1001.cpp)
+add_executable(diverta_b q2001.cpp)
+add_executable(diverta_c q3001.cpp)
+add_executable(diverta_d q4001.cpp)
+add_executable(diverta_e q5001.cpp)
+add_executable(diverta_f q6001.cpp)
