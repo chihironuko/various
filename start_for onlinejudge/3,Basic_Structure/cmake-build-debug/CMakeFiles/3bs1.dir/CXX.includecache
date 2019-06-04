@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/okkun/Documents/atcoder/various/start_for onlinejudge/3,Basic_Structure/q1001.cpp
+bits/stdc++.h
+-
+

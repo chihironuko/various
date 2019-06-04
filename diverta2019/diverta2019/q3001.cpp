@@ -20,7 +20,7 @@ int main() {
     int b = 0;
     int ab = 0;
     cin >> N;
-    string* s = new string[N];
+    string* s;
     string dir = "AB";
     for(int i = 0; i < N; i++) {
         cin >> s[i];

@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+//r,gで0ならBｄで割っても0やんな...
 using namespace std;
 int main(){
     int R,G,B,N;
