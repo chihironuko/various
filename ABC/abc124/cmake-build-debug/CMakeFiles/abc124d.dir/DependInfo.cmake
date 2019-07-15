@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/alauda/CLionProjects/AtCoder/ABC/abc124/q4001.cpp" "/Users/alauda/CLionProjects/AtCoder/ABC/abc124/cmake-build-debug/CMakeFiles/abc124d.dir/q4001.cpp.o"
+  "C:/Users/okkun/Documents/atcoder/various/ABC/abc124/q4001.cpp" "C:/Users/okkun/Documents/atcoder/various/ABC/abc124/cmake-build-debug/CMakeFiles/abc124d.dir/q4001.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

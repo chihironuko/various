@@ -1,0 +1,12 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/tenka1_2019c.dir/q1001.cpp.obj"
+  "tenka1_2019c.pdb"
+  "tenka1_2019c.exe"
+  "tenka1_2019c.exe.manifest"
+  "libtenka1_2019c.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/tenka1_2019c.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

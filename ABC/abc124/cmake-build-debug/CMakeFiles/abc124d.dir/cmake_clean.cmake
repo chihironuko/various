@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/abc124d.dir/q4001.cpp.o"
+  "CMakeFiles/abc124d.dir/q4001.cpp.obj"
   "abc124d.pdb"
-  "abc124d"
+  "abc124d.exe"
+  "abc124d.exe.manifest"
+  "libabc124d.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
