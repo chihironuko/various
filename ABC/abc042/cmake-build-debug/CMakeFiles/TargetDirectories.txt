@@ -1,0 +1,6 @@
+C:/Users/okkun/Documents/atcoder/various/ABC/abc042/cmake-build-debug/CMakeFiles/abc042a.dir
+C:/Users/okkun/Documents/atcoder/various/ABC/abc042/cmake-build-debug/CMakeFiles/abc042b.dir
+C:/Users/okkun/Documents/atcoder/various/ABC/abc042/cmake-build-debug/CMakeFiles/abc042c.dir
+C:/Users/okkun/Documents/atcoder/various/ABC/abc042/cmake-build-debug/CMakeFiles/abc042d.dir
+C:/Users/okkun/Documents/atcoder/various/ABC/abc042/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/okkun/Documents/atcoder/various/ABC/abc042/cmake-build-debug/CMakeFiles/rebuild_cache.dir
