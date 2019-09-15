@@ -15,15 +15,12 @@ func Rr() []string {
   return slice
 }
  
-func abc140d(N int, K int){
-	s := ""
-	s = "LRLRRRL"
-	fmt.Println(s[0:1])
-}
+func abc141b(N int){
+
+}	
+ 
 func main(){
 	x := 0
-	y := 0
 	fmt.Scan(&x)
-	fmt.Scan(&y)
-	abc140d(x,y)
+	abc141b(x)
 }
