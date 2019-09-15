@@ -15,12 +15,27 @@ func Rr() []string {
   return slice
 }
  
-func abc141b(N int){
-
+func abc141b(S string){
+	for i := 0;i<len(S);i++ {
+		if i % 2 == 0{
+			if S[i:i+1] == "L"{
+				fmt.Println("No")
+				break
+			}
+		}else{
+			if S[i:i+1] == "R"{
+				fmt.Println("No")
+				break
+			}
+		}
+		if i == len(S)-1{
+			fmt.Println("Yes")
+		}
+	}
 }	
  
 func main(){
-	x := 0
+	x := ""
 	fmt.Scan(&x)
 	abc141b(x)
 }
