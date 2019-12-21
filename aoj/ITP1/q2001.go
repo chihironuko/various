@@ -12,8 +12,10 @@ import(
 
 func main(){
     a := 0
+    b := 0
     fmt.Scan(&a)
-    fmt.Println(a*a*a)
+    fmt.Scan(&b)
+    fmt.Println(a*b,a*2+b*2)
 }
 
 

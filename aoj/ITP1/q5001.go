@@ -11,14 +11,15 @@ import(
  
 
 func main(){
-    a := 0
+    a,b,c := 0,0,0
     fmt.Scan(&a)
-    h,m := 0,0
-    h = int(a/3600)
-    a = a - h*3600
-    m = int(a/60)
-    a = a - m*60
-    fmt.Printf("%d:%d:%d\n",h,m,a)
+    fmt.Scan(&b)
+    fmt.Scan(&c)
+    if a < b && b < c{
+      fmt.Println("Yes")
+    }else{
+      fmt.Println("No")
+    }
 }
 
 

@@ -11,14 +11,13 @@ import(
  
 
 func main(){
-    a := 0
-    fmt.Scan(&a)
-    h,m := 0,0
-    h = int(a/3600)
-    a = a - h*3600
-    m = int(a/60)
-    a = a - m*60
-    fmt.Printf("%d:%d:%d\n",h,m,a)
+  a,b := uint64(0),uint64(0)
+  fmt.Scan(&a)
+  fmt.Scan(&b)
+  d := int64(a/b)
+  r := int64(a%b)
+  f := float64(a)/float64(b)
+  fmt.Printf("%d %d %f\n",d,r,f)
 }
 
 

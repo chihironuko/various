@@ -11,14 +11,23 @@ import(
  
 
 func main(){
-    a := 0
+  for {
+    a,b := 0,0
+    op := ""
     fmt.Scan(&a)
-    h,m := 0,0
-    h = int(a/3600)
-    a = a - h*3600
-    m = int(a/60)
-    a = a - m*60
-    fmt.Printf("%d:%d:%d\n",h,m,a)
+    fmt.Scan(&op)
+    if op == "?"{break}
+    fmt.Scan(&b)
+    if op == "+"{
+      fmt.Println(a+b)
+    }else if op == "-"{
+      fmt.Println(a-b)
+    }else if op == "/"{
+      fmt.Println(a/b)
+    }else{
+      fmt.Println(a*b)
+    }
+  }
 }
 
 

@@ -11,14 +11,20 @@ import(
  
 
 func main(){
-    a := 0
-    fmt.Scan(&a)
-    h,m := 0,0
-    h = int(a/3600)
-    a = a - h*3600
-    m = int(a/60)
-    a = a - m*60
-    fmt.Printf("%d:%d:%d\n",h,m,a)
+  a,b := 0,0
+  fmt.Scan(&a)
+  min,max,sum := 1000000,-1000000,0
+  for i := 0; i < a; i++{
+    fmt.Scan(&b)
+    if b < min{
+      min = b
+    }
+    if b > max{
+      max = b
+    }
+    sum+=b
+  }
+  fmt.Println(min,max,sum)
 }
 
 
